@@ -1,10 +1,10 @@
-#AI friend
-##A real-time AI chatbot whose personality you can change live
+# AI friend
+## A real-time AI chatbot whose personality you can change live
 Built in 24h for HackSussex 2026 Gemini track
 ---
 ![lightMode preview](lightmode.png)
 ![darkMode preview](darkmode.png)
-###Tech stack
+### Tech stack
 
 | Layer | Technology | Notes |
 | :--- | :---: | ---: |
