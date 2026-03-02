@@ -1,6 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 
-const ai = new GoogleGenAI({ apiKey: "AIzaSyBZzTRja4T8xZAI07CLnlMWJxIzlGiu4R8" });
+const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
+const ai = new GoogleGenAI({ apiKey });
 
 export async function generateContent(message,personality) {
     console.log("Personality" + personality)
