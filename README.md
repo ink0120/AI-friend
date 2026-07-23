@@ -13,6 +13,12 @@
 * Personality can be changed live.
 * Range of built in personality traits, as well as custom user generated ones too!
 * Built in 24h for HackSussex 2026 Gemini track.
+
+##### Click the thumbnail for a live demonstration! ->
+<a href="https://www.youtube.com/watch?v=D8A3ogfkUhs">
+  <img src="https://img.youtube.com/vi/D8A3ogfkUhs/0.jpg" alt="Watch the demo" width="400">
+</a>
+
 ---
 ### Example images:
 ![lightMode preview](lightmode.png)
